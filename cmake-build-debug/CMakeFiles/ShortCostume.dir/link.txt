@@ -1,1 +1,0 @@
-/home/buga/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-g++  -g  -rdynamic CMakeFiles/ShortCostume.dir/src/main.cpp.o  -o ShortCostume 
